@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.ryanw.barcodedemo"
         version   = "2.0.0">
-    <name>Scanner Demo</name>
+    <name>SpeckTAB Demo</name>
 
     <description>
         Scans barcodes.
@@ -27,7 +27,7 @@
     <preference name="fullscreen"       value="false" />
     <preference name="webviewbounce"    value="false" />
 
-    <icon src="icon.png" />
+    <icon src="img/thumbsup.jpg" />
     <icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:density="mdpi" />
     <icon src="res/icon/android/icon-72-hdpi.png"   gap:platform="android"    gap:density="hdpi" />
